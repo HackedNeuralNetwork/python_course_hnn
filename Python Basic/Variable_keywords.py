@@ -40,12 +40,9 @@ print(name)
 """
 How to create a Variable
 1) small letter
-
 2) Not allow = start with number
-
 Eg: 1name (Wrong Way)
 Right way = name1, name_1 
-
 3) Variable are case sen.
     name
     Name
@@ -55,7 +52,6 @@ Right way = name1, name_1
     NaMe
     namE  
 4) Never Give Space 
-
 Eg: full name (Wrong Way) there are 2 var
 Right Way:= full_name, fullName, fullname
 """
